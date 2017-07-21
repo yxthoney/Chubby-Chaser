@@ -1,0 +1,693 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.376 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\yxt\study\NTU\Introduction to game design\chubby chaser\Yoyo and Xin\Yoyo and Xin_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.553826 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2212.
+Total: 2.654181 ms (FindLiveObjects: 0.251664 ms CreateObjectMapping: 0.050907 ms MarkObjects: 0.537815 ms  DeleteObjects: 0.285740 ms)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 4
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 4
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 6
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 100
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Coin: 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 6
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 6
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 6
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 9
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Energy: 75
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Destroy: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Coin: 2
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 9
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H3(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H4(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Coin: 3
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Fatness: 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 8
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H1(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Healthy food created!: H2(Clone)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Current Yoyo's Fatness 7
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+2711&&&20
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+##### GAME OVER #####
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 10.980881 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 750 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 6.285874 ms (FindLiveObjects: 0.093604 ms CreateObjectMapping: 0.045160 ms MarkObjects: 0.348964 ms  DeleteObjects: 4.375191 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 0.350606 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 2.330671 ms (FindLiveObjects: 0.050086 ms CreateObjectMapping: 0.052549 ms MarkObjects: 0.396177 ms  DeleteObjects: 0.060350 ms)
+
+UnloadTime: 0.191314 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 1.946399 ms (FindLiveObjects: 0.058297 ms CreateObjectMapping: 0.035717 ms MarkObjects: 0.353480 ms  DeleteObjects: 0.039001 ms)
+
+UnloadTime: 0.416293 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 2.040004 ms (FindLiveObjects: 0.054192 ms CreateObjectMapping: 0.034896 ms MarkObjects: 0.292308 ms  DeleteObjects: 0.263160 ms)
+
+UnloadTime: 0.505382 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 2.002644 ms (FindLiveObjects: 0.055423 ms CreateObjectMapping: 0.045160 ms MarkObjects: 0.331310 ms  DeleteObjects: 0.129322 ms)
+
+UnloadTime: 0.414241 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1399.
+Total: 2.169737 ms (FindLiveObjects: 0.130964 ms CreateObjectMapping: 0.041054 ms MarkObjects: 0.326794 ms  DeleteObjects: 0.257001 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.initializeFood () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Yoyosize.TimeChange () [0x00000] in <filename unknown>:0 
+  at Yoyosize.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.042467 ms
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Default clip could not be found in attached animations list.
+ 
+(Filename:  Line: 395)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 611.
+Total: 2.563861 ms (FindLiveObjects: 0.077593 ms CreateObjectMapping: 0.044749 ms MarkObjects: 0.335416 ms  DeleteObjects: 0.683149 ms)
+
+UnloadTime: 0.880211 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 2.813473 ms (FindLiveObjects: 0.056655 ms CreateObjectMapping: 0.044749 ms MarkObjects: 0.386324 ms  DeleteObjects: 0.867484 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+UnloadTime: 0.436000 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 274.
+Total: 2.263752 ms (FindLiveObjects: 0.047623 ms CreateObjectMapping: 0.040644 ms MarkObjects: 0.290666 ms  DeleteObjects: 0.297646 ms)
+
+UnloadTime: 0.204041 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 1.975959 ms (FindLiveObjects: 0.055013 ms CreateObjectMapping: 0.043107 ms MarkObjects: 0.314478 ms  DeleteObjects: 0.056244 ms)
+
